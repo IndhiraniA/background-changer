@@ -1,0 +1,19 @@
+body{
+    align-items: center;
+    text-align:center;
+}
+#canvas{
+    width:100%;
+    background-color:rgb(43, 255, 0);
+    height: 500px;
+    
+}
+#button{
+    padding:2%;
+    background-color: blue;
+}
+h3{
+    text-align: center;
+    padding:5%;
+    font-size: x-large;
+}
